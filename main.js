@@ -4,7 +4,7 @@ const imgReprovado = '<img src="./images/reprovado.png" alt="Emoji triste" />';
 const atividades = [];
 const notas = []
 const spanAprovado = '<span class="resultado aprovado">Aprovado</span>';
-const Reprovado = '<span class="resultado reprovado">Reprovado</span>';
+const spanReprovado = '<span class="resultado reprovado">Reprovado</span>';
 const notaMinima = parseFloat(prompt("Digite a nota mínima"));
 
 let linhas = '';
